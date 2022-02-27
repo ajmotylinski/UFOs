@@ -12,6 +12,7 @@ See the directions below on how to use the filters.
 ![City Filter](../main/resources/city.png)
 4. The filter will be applied when you click out of the box or press enter.
 5. You can apply multiple filters by filling in mutliple fields.
+
 ![Mutliple Filters](../main/resources/multiple.png)
 
 
