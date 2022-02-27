@@ -6,9 +6,14 @@ The completed webpage allows users to filter based on various categories. The fi
 See the directions below on how to use the filters.
 ## Directions to filter results
 1. Filter options can be found on the left side of the page. You may need to scroll down to find see the filters.
+![Filters](../main/resources/filters_start.png)
 2. Click in to the first box that you want to filter
-3. In the desired field, enter in the text you want to search for. NOTE: For the date, you will need to enter the date in the format of "01/01/2001".
+3. In the desired field, enter in the text you want to search for. NOTE: For the date, you will need to enter the date in the format of "01/01/2001". Below is an example of filtering by city
+![City Filter](../main/resources/city.png)
 4. The filter will be applied when you click out of the box or press enter.
+5. You can apply multiple filters by filling in mutliple fields.
+![Mutliple Filters](../main/resources/multiple.png)
+
 
 # Summary
 ## Drawback
